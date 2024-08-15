@@ -7,21 +7,19 @@
 - 👯 I’m looking to collaborate on web dev projects
 
 ## Language & Tools
+![icons8-c-64](https://github.com/user-attachments/assets/3109e30d-f03c-4a93-a7ea-4eef8a66923c)
+![icons8-html-48](https://github.com/user-attachments/assets/3b7a4a17-8f9a-49a0-a424-bbf80e8fc60f)
+![icons8-css-48](https://github.com/user-attachments/assets/fd856aa0-8d3e-48ec-b8e4-a22648fabeb9)
 
-![image](https://github.com/prince7703/prince7703/assets/97835858/c2c5c726-38c0-4801-9405-778b7908460f) 
-![image](https://github.com/prince7703/prince7703/assets/97835858/9f9ff88b-7b48-4900-91b6-265104dbc9e1)
-![image](https://github.com/prince7703/prince7703/assets/97835858/3e2fb381-b1fd-4ec0-9460-58c981accd87) 
-![image](https://github.com/prince7703/prince7703/assets/97835858/8d9f2a6e-4c50-4a73-8d2a-477989265075)
-![image](https://github.com/prince7703/prince7703/assets/97835858/b1552a2e-8926-4d7f-91cf-9424d5a5180c)
-![image](https://github.com/prince7703/prince7703/assets/97835858/3698a18d-fbf3-4541-8640-4f859f164a3e)
-![icons8-express-js-16 (1)](https://github.com/user-attachments/assets/055518a5-f886-4444-860c-5aeed0ba210e)
+![icons8-tailwind-css-48](https://github.com/user-attachments/assets/7c906ed4-6a1e-4b76-8f7f-d2051b8b6e57)
+
+![icons8-javascript-48](https://github.com/user-attachments/assets/27f7912e-ab1f-4dbc-bbae-a79acca07400)
+![icons8-react-50](https://github.com/user-attachments/assets/ee319dfe-a4f3-46dc-9ca3-325c1911bc76)
+![icons8-nodejs-48](https://github.com/user-attachments/assets/88659a9c-bc85-4318-808b-e2c3d1bd5e60)
+
 ![icons8-express-js-40](https://github.com/user-attachments/assets/dede3901-673e-46f3-94ef-090b13165d56)
-![icons8-express-js-80](https://github.com/user-attachments/assets/e4154a75-60e4-472a-a3c9-b6dc06b55c05)
 
-
-
-![image](https://github.com/prince7703/prince7703/assets/97835858/779a8197-33f0-43e0-9467-fcdf4c7dc676)
-![image](https://github.com/prince7703/prince7703/assets/97835858/cc1cb68e-8d6b-4a1a-8bb2-d8245e624e89)
+![icons8-mongodb-48](https://github.com/user-attachments/assets/a69bc869-9c09-44d4-ac8c-f77ff6df58b3)
 
 
 
