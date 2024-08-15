@@ -16,6 +16,8 @@
 ![icons8-nodejs-48](https://github.com/user-attachments/assets/88659a9c-bc85-4318-808b-e2c3d1bd5e60)
 ![icons8-express-js-40](https://github.com/user-attachments/assets/dede3901-673e-46f3-94ef-090b13165d56)
 ![icons8-mongodb-48](https://github.com/user-attachments/assets/a69bc869-9c09-44d4-ac8c-f77ff6df58b3)
+![icons8-vs-code-48](https://github.com/user-attachments/assets/a99aedd4-7a75-4bf1-8e31-8b326dea294b)
+![icons8-git-48](https://github.com/user-attachments/assets/627b275b-2ff8-4541-9592-027cbbad77da)
 
 
 
