@@ -21,7 +21,7 @@
 
 
 ## More About me
-[![name](link to image on GH)](link to your URL)
+
 [![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/user-attachments/assets/923b25d2-df70-4e74-b34a-e88bcfcfeaab)](https://leetcode.com/Koshti07)
 
 
