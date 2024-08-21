@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning mongoose
+- ⭐ I enjoy crafting user-friendly and responsive interfaces.
 - 👯 I’m looking to collaborate on web dev projects
 
 ## Language & Tools
