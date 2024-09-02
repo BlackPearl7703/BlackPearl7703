@@ -21,7 +21,7 @@
 
 ## Connect with me
 
-[![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/user-attachments/assets/923b25d2-df70-4e74-b34a-e88bcfcfeaab)](https://leetcode.com/Koshti07)
+
 [![icons8-linkedin-48](https://github.com/user-attachments/assets/a3b4d0d7-44d9-4711-a5c3-a36df14e9bd2)](https://www.linkedin.com/in/prince-koshti-21a979231)
 
 ## Leetcode 
