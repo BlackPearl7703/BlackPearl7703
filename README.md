@@ -19,14 +19,14 @@
 ![icons8-vs-code-48](https://github.com/user-attachments/assets/a99aedd4-7a75-4bf1-8e31-8b326dea294b)
 ![icons8-git-48](https://github.com/user-attachments/assets/627b275b-2ff8-4541-9592-027cbbad77da)
 
-## coding profile
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Koshti07)
 ## More About me
 
 [![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/user-attachments/assets/923b25d2-df70-4e74-b34a-e88bcfcfeaab)](https://leetcode.com/Koshti07)
 [![icons8-linkedin-48](https://github.com/user-attachments/assets/a3b4d0d7-44d9-4711-a5c3-a36df14e9bd2)](https://www.linkedin.com/in/prince-koshti-21a979231)
 
+## DSA ❤️❤️
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Koshti07)
 
 
 
