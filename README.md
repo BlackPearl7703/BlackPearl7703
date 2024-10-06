@@ -29,7 +29,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Koshti07)
 
 ## Open Source
-holopin.io/@prince7703
+[holopin.io/@prince7703](https://www.holopin.io/hacktoberfest2024/userbadge/cm1wvhcpc15780cjq6lt81opu)
 
 
 
