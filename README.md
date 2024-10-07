@@ -23,6 +23,8 @@
 
 
 [![icons8-linkedin-48](https://github.com/user-attachments/assets/a3b4d0d7-44d9-4711-a5c3-a36df14e9bd2)](https://www.linkedin.com/in/prince-koshti-21a979231)
+[![icons8-facebook-96](https://github.com/user-attachments/assets/a4cf1171-4905-4836-9ea7-ca54be96e0a3)](https://www.facebook.com/profile.php?id=100073191026136)
+
 
 ## Leetcode 
 
