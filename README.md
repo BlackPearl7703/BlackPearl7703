@@ -26,7 +26,7 @@
 </p>
 
 ## Leetcode 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Koshti07)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Koshti07?theme=dark)
 
 ---
 
@@ -37,13 +37,13 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince7703&show_icons=true&locale=en&layout=compact" alt="Prince Koshti Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince7703&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Koshti Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince7703&show_icons=true&locale=en" alt="Prince Koshti's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prince7703&show_icons=true&locale=en&theme=dark" alt="Prince Koshti's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince7703&" alt="Prince Koshti's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince7703&theme=dark" alt="Prince Koshti's GitHub Streak"/>
 </p>
