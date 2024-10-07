@@ -35,10 +35,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince7703&label=Profile%20views&color=0e75b6&style=flat" alt="Prince Koshti" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmad-yaqoob&show_icons=true&locale=en&layout=compact" alt="mohmad-yaqoob" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince7703&show_icons=true&locale=en&layout=compact" alt="prince-koshti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmad-yaqoob&show_icons=true&locale=en" alt="mohmad-yaqoob" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince7703&show_icons=true&locale=en" alt="prince-koshti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmad-yaqoob&" alt="mohmad-yaqoob" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince7703&" alt="prince-koshti" /></p>
 
 
