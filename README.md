@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kSvA9ABrG5xorDOCyQ_9TVCyAJGO31Zp/view?usp=sharing](https://drive.google.com/file/d/1kSvA9ABrG5xorDOCyQ_9TVCyAJGO31Zp/view?usp=sharing)
 
-- ⚡ Fun fact **I’m an extrovert with an introverted side.**
+<!--- ⚡ Fun fact **I’m an extrovert with an introverted side.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
