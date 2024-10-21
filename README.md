@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prince7703?tab=repositories](https://github.com/prince7703?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/prince7703?tab=repositories](https://github.com/BlackPearl7703?tab=repositories)
 
 - 📫 How to reach me **princekoshti7703@gmail.com**
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/koshti_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koshti_prince" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prince-koshti-21a979231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-koshti-21a979231/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100073191026136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073191026136" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/koshti07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/koshti07/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/koshti07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/BlackPearl7703/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +28,7 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince7703&show_icons=true&locale=en" alt="prince7703" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackPearl7703&show_icons=true&locale=en" alt="BlackPearl7703" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince7703&" alt="prince7703" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince7703&label=Profile%20views&color=0e75b6&style=flat" alt="prince7703" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackPearl7703&" alt="prince7703" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackPearl7703&label=Profile%20views&color=0e75b6&style=flat" alt="BlackPearl7703" /> </p>
