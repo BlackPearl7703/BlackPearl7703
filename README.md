@@ -30,5 +30,5 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackPearl7703&show_icons=true&locale=en" alt="BlackPearl7703" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackPearl7703&" alt="prince7703" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackPearl7703&" alt="BlackPearl7703" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackPearl7703&label=Profile%20views&color=0e75b6&style=flat" alt="BlackPearl7703" /> </p>
