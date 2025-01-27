@@ -4,7 +4,7 @@
 
 [![An image of @prince7703's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prince7703)](https://holopin.io/@prince7703)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince7703?tab=repositories](https://github.com/BlackPearl7703?tab=repositories)
 
