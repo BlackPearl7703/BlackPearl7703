@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Koshti</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+
 
 
 [![An image of @prince7703's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prince7703)](https://holopin.io/@prince7703)
