@@ -36,10 +36,6 @@ Backend-focused developer who enjoys building scalable applications, APIs, and r
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=BlackPearl7703&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=BlackPearl7703&theme=shadow_blue&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPearl7703&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ## Achievements
 
 [![Holopin Badges](https://holopin.me/prince7703)](https://holopin.io/@prince7703)
